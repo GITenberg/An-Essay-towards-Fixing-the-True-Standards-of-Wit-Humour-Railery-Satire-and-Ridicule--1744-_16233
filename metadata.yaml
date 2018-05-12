@@ -1,0 +1,36 @@
+_repo: An-Essay-towards-Fixing-the-True-Standards-of-Wit-Humour-Railery-Satire-and-Ridicule--1744-_16233
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Clifford, James L. (James Lowry)
+    alias: Clifford, James Lowry
+    birthdate: 1901
+    deathdate: 1978
+    gutenberg_agent_id: '5083'
+    url: http://www.gutenberg.org/2009/agents/5083
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morris, Corbyn
+    birthdate: 1710
+    deathdate: 1779
+    gutenberg_agent_id: '6552'
+    url: http://www.gutenberg.org/2009/agents/6552
+description: ''
+gutenberg_issued: '2005-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16233'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedy'
+- !lcc 'PN'
+- !lcsh 'Wit and humor -- History and criticism'
+title: An Essay towards Fixing the True Standards of Wit, Humour, Railery, Satire,
+  and Ridicule (1744)
+url: http://www.gutenberg.org/ebooks/16233
