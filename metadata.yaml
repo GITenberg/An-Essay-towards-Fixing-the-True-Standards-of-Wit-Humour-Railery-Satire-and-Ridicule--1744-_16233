@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '6552'
     url: http://www.gutenberg.org/2009/agents/6552
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16233#An-Essay-towards-Fixing-the-True-Standards-of-Wit-Humour-Railery-Satire-and-Ridicule--1744-
 gutenberg_issued: '2005-07-07'
 gutenberg_type: Text
 identifiers:
